@@ -1,5 +1,5 @@
 # Image-Captioner
-An Image Captioning model created using
+An Image Captioning model created using Keras
 
 Flickr 8k dataset has been used for training and testing purpose. It can be found at https://www.kaggle.com/shadabhussain/flickr8k
 
@@ -10,5 +10,7 @@ Training can be started by running start.py
 Remember to give proper location path to the training, testing and validation datasets in start.py
 
 BLEU scores are used to measure the accuracy of the generated captions.
+
+Inception model has been usedfrom Keras libraries for training.
 
 
